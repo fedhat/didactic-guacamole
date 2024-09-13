@@ -16,9 +16,12 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ohall/didactic-guacamole/issues"
+    "url": "https://github.com/fedhat/didactic-guacamole/issues"
   },
-  "homepage": "https://github.com/ohall/didactic-guacamole#readme",
+  "homepage": "https://github.com/fedhat/didactic-guacamole#readme",
+  "engines": {
+    "node": "~16.13.2"
+  },
   "dependencies": {
     "@hapi/hapi": "^20.0.3",
     "lodash": "^4.17.20",
